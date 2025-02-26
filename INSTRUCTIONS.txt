@@ -1,0 +1,31 @@
+
+Instructions in English
+Download and extract the files: Eternal Tool.zip, EternalVal.zip (for Valorant), EternalRoblox.zip (for Roblox), and UpdateEternal.zip.
+
+Launch the tool: Open Eternal Tool and run the main file.
+
+Launch the game:
+
+For Valorant: Open EternalVal and start the game.
+For Roblox: Open EternalRoblox and start the game.
+Enter your key: Go back to the tool and input your license key.
+
+If the key doesn't work: Open UpdateEternal and run the update.
+
+Restart the tool and the game after updating.
+
+
+Instructions en Français
+Téléchargez et extrayez les fichiers : Eternal Tool.zip, EternalVal.zip (pour Valorant), EternalRoblox.zip (pour Roblox), et UpdateEternal.zip.
+
+Lancez l'outil : Ouvrez Eternal Tool et exécutez le fichier principal.
+
+Lancez le jeu :
+
+Pour Valorant : Ouvrez EternalVal et lancez le jeu.
+Pour Roblox : Ouvrez EternalRoblox et lancez le jeu.
+Entrez votre clé : Retournez à l'outil et entrez votre clé de licence.
+
+Si la clé ne fonctionne pas : Ouvrez UpdateEternal et exécutez la mise à jour.
+
+Redémarrez l'outil et le jeu après la mise à jour.
